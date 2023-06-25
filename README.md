@@ -1,4 +1,6 @@
-# Introduction to the C Programming Language
+# 0127_lsw21a_intro_to_c
+
+## Introduction to the C Programming Language
 
 Welcome to your first C lab!
 
